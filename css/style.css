@@ -87,3 +87,7 @@ h2 {
   text-align: center;
   font-weight: bold;
 }
+.footer-copyright a {
+  text-decoration: none;
+  color: #ffa500;
+}
